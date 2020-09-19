@@ -32,7 +32,7 @@ Applications, 3rd Edition," <i>Prentice Hall</i>, 1996.
 - [AY 2016-2017](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6401%202016-2017.pdf)
 - [AY 2015-2016](https://github.com/NTU-CCA/EE6203/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6401%202015-2016.pdf)
 - [AY 2014-2015](https://github.com/NTU-CCA/EE6203/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6401%202014-2015.pdf)
-- [AY 2013-2014](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6225%202013-2014.pdf)
-- [AY 2012-2013](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6225%202012-2013.pdf)
+- [AY 2013-2014](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6401%202013-2014.pdf)
+- [AY 2012-2013](https://github.com/NTU-CCA/EE6225/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6401%202012-2013.pdf)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
